@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/data-dawgs/static/css/main.b03605fb.css",
-    "main.js": "/data-dawgs/static/js/main.5f68246a.js",
+    "main.css": "/data-dawgs/static/css/main.3601e58d.css",
+    "main.js": "/data-dawgs/static/js/main.38d03df4.js",
     "static/media/laptop.jpg": "/data-dawgs/static/media/laptop.45ddf500e572fb2f1d35.jpg",
     "static/media/single.png": "/data-dawgs/static/media/single.20196aa3e7e7fa48f8f7.png",
     "static/media/double.png": "/data-dawgs/static/media/double.8be045e6bb88be63d414.png",
     "static/media/triple.png": "/data-dawgs/static/media/triple.4eb8f19f4b4647321484.png",
     "index.html": "/data-dawgs/index.html",
-    "main.b03605fb.css.map": "/data-dawgs/static/css/main.b03605fb.css.map",
-    "main.5f68246a.js.map": "/data-dawgs/static/js/main.5f68246a.js.map"
+    "main.3601e58d.css.map": "/data-dawgs/static/css/main.3601e58d.css.map",
+    "main.38d03df4.js.map": "/data-dawgs/static/js/main.38d03df4.js.map"
   },
   "entrypoints": [
-    "static/css/main.b03605fb.css",
-    "static/js/main.5f68246a.js"
+    "static/css/main.3601e58d.css",
+    "static/js/main.38d03df4.js"
   ]
 }
